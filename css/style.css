@@ -9,12 +9,25 @@
   margin: 0 auto;
 }
 
-.lato {
+body {
   font-family: "Lato";
+}
+
+.top {
+  margin-top: 80px;
+}
+
+.d-flex-j-center {
+  display: flex;
+  justify-content: center;
 }
 
 .raleway {
   font-family: "Raleway";
+}
+
+.txt-center {
+  text-align: center;
 }
 
 .color-red {
@@ -47,5 +60,29 @@
 
 .main-txt {
   font-size: 100px;
-  text-align: center;
+}
+
+.self-inner {
+  padding: 80px;
+}
+
+.self-txt {
+  font-size: 50px;
+}
+
+.introduction {
+  margin-left: 50px;
+}
+
+.introduction:first-child {
+  margin-left: 0;
+}
+
+.introduction-title {
+  font-size: 30px;
+}
+
+.introduction-txt {
+  margin-top: 30px;
+  letter-spacing: 2px;
 }
