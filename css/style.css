@@ -17,6 +17,10 @@ body {
   margin-top: 80px;
 }
 
+.d-inline-block {
+  display: inline-block;
+}
+
 .d-flex-j-center {
   display: flex;
   justify-content: center;
@@ -85,4 +89,25 @@ body {
 .introduction-txt {
   margin-top: 30px;
   letter-spacing: 2px;
+}
+
+.works-inner {
+  padding: 80px;
+}
+
+.works-txt {
+  font-size: 50px;
+}
+
+.work-list li {
+  display: inline-block;
+  margin: 80px 0 0 80px;
+}
+
+.work-list li:nth-child(3n + 1) {
+  margin: 0;
+}
+
+.photo-size {
+  width: 280px;
 }
