@@ -33,3 +33,19 @@
   font-size: 40px;
   font-weight: bold;
 }
+
+.tree-img {
+  width: 100%;
+  height: 390px;
+  background-image: url('https://www.photock.jp/photo/middle/photo0000-0360.jpg');
+  background-size: cover;
+}
+
+.main-visual-inner {
+  padding: 150px;
+}
+
+.main-txt {
+  font-size: 100px;
+  text-align: center;
+}
