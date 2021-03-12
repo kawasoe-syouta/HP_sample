@@ -111,3 +111,23 @@ body {
 .photo-size {
   width: 280px;
 }
+
+.contact-inner {
+  padding: 80px;
+}
+
+.contact-txt {
+  font-size: 50px;
+}
+
+.form-item {
+  margin-top: 30px;
+}
+
+.form-item-txt {
+  margin-bottom: 10px;
+}
+
+.submit {
+  font-size: 20px;
+}
